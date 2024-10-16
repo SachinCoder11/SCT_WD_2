@@ -1,10 +1,10 @@
---> My Stopwatch <--
+## --> My Stopwatch <--
 
-This is a simple responsive
+- This is a simple stopwatch
 
 https://github.com/user-attachments/assets/983025fc-d8b2-4b38-9e56-af51de98fb7e
 
- stopwatch web application that allows users to start, pause, reset, and log lap times. It features a user-friendly interface and is built using HTML, CSS, and JavaScript.
+ - stopwatch web application that allows users to start, pause, reset, and log lap times. It features a user-friendly interface and is built using HTML, CSS, and JavaScript.
 
 ## Features
 
@@ -46,11 +46,8 @@ https://github.com/user-attachments/assets/983025fc-d8b2-4b38-9e56-af51de98fb7e
 - Thanks to [Pixabay](https://pixabay.com/) for the background image.
 - Inspiration from various online stopwatch implementations.
   
+## License
+- This project is licensed under the MIT License.
+- This updated version includes a Project Information section at the beginning, outlining the purpose and features of stopwatch.
+- Feel free to modify any content or add more details as necessary!
 
-### Instructions for Use
-
-1. Modify the Repository URL: Update the clone command with your actual GitHub repository URL.
-2. Add Screenshots: If you want to include screenshots, take a screenshot of your stopwatch in action, save it as `screenshot.png`, and add it to your project folder.
-3. License: If you have a license, include the details or remove this section if not applicable.
-
-Feel free to add or modify any sections to better fit your project!
